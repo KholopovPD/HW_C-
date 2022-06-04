@@ -14,10 +14,11 @@ double b = number / a;
 
 double c = b % 1;
 
-if(b % 2 == 0)
+if(c == 0)
 {
     Console.Write("Случайное число кратно делителю ");
     Console.Write(b);
+    Console.Write(" раз(а)");
 }
 else
 {
