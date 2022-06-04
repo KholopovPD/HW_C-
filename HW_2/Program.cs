@@ -1,4 +1,6 @@
-﻿Console.Write("Введите первое целое число: ");
+﻿//Найти максимальное из трех чисел
+
+Console.Write("Введите первое целое число: ");
 int a = int.Parse(Console.ReadLine());
 Console.Write("Введите второе целое число: ");
 int b = int.Parse(Console.ReadLine());
